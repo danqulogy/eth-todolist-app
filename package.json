@@ -1,0 +1,38 @@
+{
+  "name": "eth-todolist-app",
+  "version": "1.0.0",
+  "description": "A blockchain based todolist application",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danqulogy/eth-todolist-app.git"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "web",
+    "ganache"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danqulogy/eth-todolist-app/issues"
+  },
+  "homepage": "https://github.com/danqulogy/eth-todolist-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "lite-server": "^2.4.0",
+    "nodemon": "^1.18.11",
+    "truffle": "^5.0.13",
+    "truffle-contract": "^4.0.12"
+  }
+}
